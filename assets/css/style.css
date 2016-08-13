@@ -1,0 +1,29 @@
+
+
+body {
+    background-image: url("http://i180.photobucket.com/albums/x296/legendary_bibo/gterminal.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#cmdBox{
+	opacity: 0.1;
+    filter: alpha(opacity=60)
+  
+}
+p {
+	color: #00ff51;
+}
+
+#footerTxt {
+	text-align: center;
+	font-size: 16px;
+	color: #DDDDDD;
+	padding-top: 30px;
+	position: absolute; bottom: 0px; 
+	margin-top: -180px;
+	height: 180px;
+	clear:both;
+}
